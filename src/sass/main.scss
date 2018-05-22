@@ -1,0 +1,13 @@
+@import 'typography.scss';
+
+html {
+    padding: 0px;
+    margin: 0px;
+}
+$background_color: rgb(100,130,255);
+body {
+    background-color: $background_color;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
